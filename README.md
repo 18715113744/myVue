@@ -1,5 +1,8 @@
 # my-project
 
+# clone the project
+git clone https://github.com/18715113744/myVue.git
+
 ## Project setup
 ```
 npm install
